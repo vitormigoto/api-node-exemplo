@@ -30,7 +30,7 @@ Tags: Back
 
 **Estrutura de Pastas da API**
 
-![Untitled](Criando%20API%20Node%20js%20com%20Express%20Ra%CC%81pido%204716f85b51fa4ba79ecc7e1e10e29410/Untitled.png)
+![Estrutura de Pastas](https://github.com/vitormigoto/api-node-exemplo/blob/master/pasta.png)
 
 
 ## 1. Inicie projeto node com o comando:

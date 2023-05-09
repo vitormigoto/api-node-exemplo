@@ -9,32 +9,29 @@ Tags: Back
 <aside>
 💡 Índice
 
-1. [Inicio do Projeto](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
-2. [Instalação de Dependências](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
-3. [Arquivos server e app.js](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+1. [Inicio do Projeto]
+2. [Instalação de Dependências]
+3. [Arquivos server e app.js]
     
-    [3.1 Server.js](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+    [3.1 Server.js]
     
-    [3.2 App.js](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+    [3.2 App.js]
     
-4. [Criação da Controladora e Rota da Controladora](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+4. [Criação da Controladora e Rota da Controladora]
     
-    4.1 [ExemploController.js](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+    4.1 [ExemploController.js]
     
-    4.2 [exemploRoutes.js](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+    4.2 [exemploRoutes.js]
     
-5. [Adicionando a Controladora no Arquivo app.js](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
-6. [Configurando nodemon no package.json](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
-7. [Executando a API.](https://www.notion.so/Criando-API-Node-js-com-Express-R-pido-4716f85b51fa4ba79ecc7e1e10e29410)
+5. [Adicionando a Controladora no Arquivo app.js]
+6. [Configurando nodemon no package.json]
+7. [Executando a API.]
 </aside>
 
 **Estrutura de Pastas da API**
 
 ![Untitled](Criando%20API%20Node%20js%20com%20Express%20Ra%CC%81pido%204716f85b51fa4ba79ecc7e1e10e29410/Untitled.png)
 
-**Arquivos:**
-
-[api_node.rar](Criando%20API%20Node%20js%20com%20Express%20Ra%CC%81pido%204716f85b51fa4ba79ecc7e1e10e29410/api_node.rar)
 
 ## 1. Inicie projeto node com o comando:
 

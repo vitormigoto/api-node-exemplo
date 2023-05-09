@@ -9,23 +9,17 @@ Tags: Back
 <aside>
 💡 Índice
 
-1. [Inicio do Projeto]
-2. [Instalação de Dependências]
-3. [Arquivos server e app.js]
-    
-    [3.1 Server.js]
-    
-    [3.2 App.js]
-    
-4. [Criação da Controladora e Rota da Controladora]
-    
-    4.1 [ExemploController.js]
-    
-    4.2 [exemploRoutes.js]
-    
-5. [Adicionando a Controladora no Arquivo app.js]
-6. [Configurando nodemon no package.json]
-7. [Executando a API.]
+1. Inicio do Projeto
+2. Instalação de Dependências
+3. Arquivos server e app.js
+    3.1 Server.js
+    3.2 App.js    
+4. Criação da Controladora e Rota da Controladora    
+    4.1 ExemploController.js    
+    4.2 exemploRoutes.js    
+5. Adicionando a Controladora no Arquivo app.js
+6. Configurando nodemon no package.json
+7. Executando a API.
 </aside>
 
 **Estrutura de Pastas da API**
